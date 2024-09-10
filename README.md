@@ -1,7 +1,3 @@
-Certainly! Here's a structured and detailed README.md file for your GitHub repository, including code snippets, steps, and explanations. I'll use Markdown formatting for clarity and add code snippets to demonstrate programming languages and commands used.
-
----
-
 # Network and Memory Forensics: Hands-On Labs
 
 ## Overview
@@ -197,25 +193,4 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-### Adding the README to GitHub
-
-1. **Create a New Repository**:
-   - Go to GitHub and create a new repository.
-
-2. **Add the README.md**:
-   - On your local machine, navigate to your repository directory.
-   - Create a file named `README.md` and paste the content above into this file.
-   - Commit and push the changes:
-
-     ```bash
-     git add README.md
-     git commit -m "Add detailed README with network and memory forensics labs"
-     git push origin main
-     ```
-
-3. **Verify on GitHub**:
-   - Visit your GitHub repository and ensure the README file is properly displayed with formatted sections and code snippets.
-
-This README provides a clear, structured guide for anyone looking to understand or replicate the forensic labs. Adjust the content and commands based on your specific tools and environment as needed.
